@@ -11,7 +11,7 @@
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch
+### Analysis of Outcomes Based on Launch Date
 
 A dataset consisting of **outcomes** and their respective **launch date** was analysed by understanding the amount of successful, canceled, and failed outcomes that were launched during each month. The following graph was produced to help visualize the findings expressed as a total count:
 ![Theatre_Outcomes vs Launch](Theatre_Outcomes_vs_Launch.png)
@@ -23,7 +23,7 @@ A dataset consisting of **outcomes** and their respective **launch date** was an
 A dataset consisting of **outcomes** and their respective **goal** was analysed by understanding the amount of successful, canceled, and failed outcomes that were launched with a spaecifc target range. The following chart was produced to help visualize the findings expressed in percentage:
 ![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
-*Please note that for the **entire dataset** there were **no canceled plays**, and therefore there is line present for this outcome*
+*Please note that for the **entire dataset** there were **no canceled plays**, and therefore there is no line present for this outcome*
 
 ### Challenges and Difficulties Encountered
 
@@ -34,9 +34,9 @@ Although no challenges or difficulties were encountered during this analysis, on
 ### Conclusions of Analysis
 
 There are three final conclusions based on the analysis of the dataset:
-* Campaigns launched in the month of May are far more likely to be successful than other months of the year, specifically speaking May had more than double the amount of successful launches as compared to the number of failed and canceled launches in total
-* Campaigns launched in the month of December have roughly the same chance of being successful as they do being either unsuccessful or canceled, as there were about the same number of successful launches as there were unsuccessful and canceled launches in total
-* With the exception of the $35000 to $45000 goal range, the lower the goal the more likely the campaign is to be successful
+* Campaigns launched in the month of May are far more likely to be successful than other months of the year, specifically speaking May had more than double the amount of successful launches as compared to the number of failed and canceled launches in total (as per **Outcomes Based on Launch Date**)
+* Campaigns launched in the month of December have roughly the same chance of being successful as they do being either unsuccessful or canceled, as there were about the same number of successful launches as there were unsuccessful and canceled launches in total (as per **Outcomes Based on Launch Date**)
+* With the exception of the $35000 to $45000 goal range, the lower the goal the more likely the campaign is to be successful (as per **Outcomes Based on Goals**)
 
 ### Limitations 
 
