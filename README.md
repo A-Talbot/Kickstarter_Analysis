@@ -27,7 +27,7 @@ A dataset consisting of **outcomes** and their respective **goal** was analysed 
 
 ### Challenges and Difficulties Encountered
 
-Although no challenges or difficulties were encountered during this analysis, one thing to consider when performing 
+Although no challenges or difficulties were encountered during this analysis, one thing to consider when performing analysis is incomplete data. This is described further in the limitations section (see below).
 
 ## Results
 
@@ -35,7 +35,7 @@ Although no challenges or difficulties were encountered during this analysis, on
 
 There are three final conclusions based on the analysis of the dataset:
 * Campaigns launched in the month of May are far more likely to be successful than other months of the year, specifically speaking May had more than double the amount of successful launches as compared to the number of failed and canceled launches in total
-* Campaigns launched in the month of December have roughly the same chance of being successful as they do being unsuccessful/canceled, as there were about the same number of successful launches as there were unsiccessful and canceled launches in total
+* Campaigns launched in the month of December have roughly the same chance of being successful as they do being either unsuccessful or canceled, as there were about the same number of successful launches as there were unsuccessful and canceled launches in total
 * With the exception of the $35000 to $45000 goal range, the lower the goal the more likely the campaign is to be successful
 
 ### Limitations 
