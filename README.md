@@ -13,7 +13,7 @@
 
 ### Analysis of Outcomes Based on Launch
 
-A dataset consisting of **outcomes** and their respective **launch date** was analysed by understanding the amount of successful, canceled, and failed outcomes that were launched during each month. The following graph was produced to help visualize the findings expressed in percentage:
+A dataset consisting of **outcomes** and their respective **launch date** was analysed by understanding the amount of successful, canceled, and failed outcomes that were launched during each month. The following graph was produced to help visualize the findings expressed as a total count:
 ![Theatre_Outcomes vs Launch](Theatre_Outcomes_vs_Launch.png)
 
 *Please note that for the month of **October** there were **no canceled plays**, and therefore there is a gap in the line graph*
@@ -31,12 +31,16 @@ Although no challenges or difficulties were encountered during this analysis, on
 
 ## Results
 
+### Conclusions of Analysis
+
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-* It is clear that 
+### Limitations 
 
 * Limitations to keep in mind when reviewing the conclusions:
    - This dataset is obtained from *KickStarter* campaigns only, and other crowdfunding paltforms such as *GoFundMe, Indiegogo,* etc. were not consulted
    - This dataset consists of campaigns with the category *theatre* and subcategory *plays* and it is assumed that all plays utilized the appropriate labels at both the category and subcategory levels
+
+### Further Study
 
 - What are some other possible tables and/or graphs that we could create?
