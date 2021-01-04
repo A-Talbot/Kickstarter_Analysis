@@ -34,13 +34,15 @@ Although no challenges or difficulties were encountered during this analysis, on
 ### Conclusions of Analysis
 
 There are three final conclusions based on the analysis of the dataset:
-*
+* Campaigns launched in the month of May are far more likely to be successful than other months of the year, specifically speaking May had more than double the amount of successful launches as compared to the number of failed and canceled launches in total
+* Campaigns launched in the month of December have roughly the same chance of being successful as they do being unsuccessful/canceled, as there were about the same number of successful launches as there were unsiccessful and canceled launches in total
+* With the exception of the $35000 to $45000 goal range, the lower the goal the more likely the campaign is to be successful
 
 ### Limitations 
 
 Limitations to keep in mind when reviewing the conclusions:
-*This dataset is obtained from *KickStarter* campaigns only, and other crowdfunding paltforms such as *GoFundMe, Indiegogo,* etc. were not consulted
-*This dataset consists of campaigns with the category *theatre* and subcategory *plays* and it is assumed that all plays utilized the appropriate labels at both the category and subcategory levels
+* This dataset is obtained from *KickStarter* campaigns only, and other crowdfunding paltforms such as *GoFundMe, Indiegogo,* etc. were not consulted
+* This dataset consists of campaigns with the category *theatre* and subcategory *plays* and it is assumed that all plays utilized the appropriate labels at both the category and subcategory levels
 
 ### Further Study
 
