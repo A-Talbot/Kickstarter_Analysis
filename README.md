@@ -33,14 +33,18 @@ Although no challenges or difficulties were encountered during this analysis, on
 
 ### Conclusions of Analysis
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+There are three final conclusions based on the analysis of the dataset:
+*
 
 ### Limitations 
 
-* Limitations to keep in mind when reviewing the conclusions:
-   - This dataset is obtained from *KickStarter* campaigns only, and other crowdfunding paltforms such as *GoFundMe, Indiegogo,* etc. were not consulted
-   - This dataset consists of campaigns with the category *theatre* and subcategory *plays* and it is assumed that all plays utilized the appropriate labels at both the category and subcategory levels
+Limitations to keep in mind when reviewing the conclusions:
+*This dataset is obtained from *KickStarter* campaigns only, and other crowdfunding paltforms such as *GoFundMe, Indiegogo,* etc. were not consulted
+*This dataset consists of campaigns with the category *theatre* and subcategory *plays* and it is assumed that all plays utilized the appropriate labels at both the category and subcategory levels
 
 ### Further Study
 
-- What are some other possible tables and/or graphs that we could create?
+Additioanl graphs that could be created to further compare the various outcomes of Kickstarter campaigns within the subcategory *plays* include the following:
+* Outcomes based on launch date filtered by a specific country or set of countries
+* Outcomes based on goal filtered by a specific country or set of countries
+* Outcomes based on length of time the campaign was active for
